@@ -246,6 +246,6 @@ class _SIFormState extends State<SIForm> {
     double term = double.parse(termController.text);
 
     double totaAmountPayable = principle + (principle * roi * term) / 100;
-    return ("After $term years, your investment will be worth $totaAmountPayable $_currentItemSelected");
+    return ("After $term years, your investment will be worth ${totaAmountPayable.toStringAsFixed(2)} $_currentItemSelected");
   }
 }
