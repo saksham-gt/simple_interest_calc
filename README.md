@@ -4,7 +4,7 @@ A flutter application to calculate simple interest to your principle amount.
 
 # Below are some snapshots from the app
 
-![ss1: Basic look of the app](./screenshots/ss1.png)
+![ss1: Basic look of the app](./screenshots/ss1.png?raw=true "Basic look of the app")
 
 ## Getting Started
 
