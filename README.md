@@ -1,6 +1,11 @@
 # simple_interest_calc
 
 A flutter application to calculate simple interest to your principle amount.
+
+# Below are some snapshots from the app
+
+![ss1: Basic look of the app](./screenshots/ss1.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
